@@ -6,7 +6,7 @@
 \contentsline {subsection}{\numberline {2.2.1}Elektronenpaarbindungen}{4}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Atombindung}{4}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Ionenbindung}{4}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Matallbindung}{4}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.4}Metallbindung}{4}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Koordinative Bindungen}{5}{subsection.2.2.5}%
 \contentsline {section}{\numberline {2.3}Aktivierungsenergie}{5}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Kalorimeter}{5}{section.2.4}%
