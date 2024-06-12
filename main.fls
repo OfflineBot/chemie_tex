@@ -818,6 +818,13 @@ INPUT src/naturstoffe/zucker.tex
 INPUT ./src/naturstoffe/zucker.tex
 INPUT ./src/naturstoffe/zucker.tex
 INPUT src/naturstoffe/zucker.tex
+INPUT ./src/naturstoffe/stärke.tex
+INPUT ./src/naturstoffe/stärke.tex
+INPUT ./src/naturstoffe/stärke.tex
+INPUT src/naturstoffe/stärke.tex
+INPUT ./src/naturstoffe/stärke.tex
+INPUT ./src/naturstoffe/stärke.tex
+INPUT src/naturstoffe/stärke.tex
 INPUT ./src/naturstoffe/begriffe.tex
 INPUT ./src/naturstoffe/begriffe.tex
 INPUT ./src/naturstoffe/begriffe.tex

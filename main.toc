@@ -3,7 +3,7 @@
 \contentsline {chapter}{\numberline {2}Allgemeines}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Homologe Reihen}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Bindungen}{4}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Elektronenpaarbindungen}{4}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.1}Elektronenpaarbindung}{4}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Atombindung}{4}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Ionenbindung}{4}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Metallbindung}{4}{subsection.2.2.4}%
@@ -61,12 +61,13 @@
 \contentsline {subsubsection}{Besonderheiten zum Bau der Lactose:}{16}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}Oligosaccharide}{16}{subsection.6.4.3}%
 \contentsline {subsection}{\numberline {6.4.4}Polysaccharide}{16}{subsection.6.4.4}%
-\contentsline {section}{\numberline {6.5}Begriffe}{16}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}Isomerie}{16}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6.5.2}Asymmetrisches C-Atom}{17}{subsection.6.5.2}%
-\contentsline {subsection}{\numberline {6.5.3}Chiralität}{17}{subsection.6.5.3}%
-\contentsline {subsection}{\numberline {6.5.4}Alpha-Beta}{17}{subsection.6.5.4}%
-\contentsline {subsection}{\numberline {6.5.5}Fehling/Tollens Reaktion}{17}{subsection.6.5.5}%
+\contentsline {section}{\numberline {6.5}Stärke}{16}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Begriffe}{16}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Isomerie}{16}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Asymmetrisches C-Atom}{17}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Chiralität}{17}{subsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.6.4}Alpha-Beta}{17}{subsection.6.6.4}%
+\contentsline {subsection}{\numberline {6.6.5}Fehling/Tollens Reaktion}{17}{subsection.6.6.5}%
 \contentsline {chapter}{\numberline {7}Aromaten}{18}{chapter.7}%
 \contentsline {chapter}{\numberline {8}Kunststoffe}{19}{chapter.8}%
 \contentsline {chapter}{\numberline {9}Elektrochemie}{20}{chapter.9}%
