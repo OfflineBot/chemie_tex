@@ -3,9 +3,9 @@
 %\renewcommand\thesection{\arabic{section}.} % sections with only one number
 
 \titleformat{\chapter}[block] %chapter format
-{\normalfont\Huge\bfseries}{Kapitel \thechapter:}{20pt}{\Huge} % chapter format
+{\normalfont\huge\bfseries}{Kapitel \thechapter:}{20pt}{\huge} % chapter format
 
-\titleformat{\section}[block]{\large\bfseries}{\thesection}{1em}{}
+%\titleformat{\section}[block]{\large\bfseries}{\thesection}{1em}{}
 %\titleformat{\subsection}[block]{\normalfont\bfseries}{\arabic{subsection}.}{1em}{}
 
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
@@ -20,3 +20,10 @@
 \renewcommand{\familydefault}{\sfdefault}
 
 \pretolerance=1000
+
+
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+
