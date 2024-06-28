@@ -1,2 +1,6 @@
 info: Opening plain database via sqlite backend.
 warning: sqlite database already exists. Set your database backend to sqlite
+error: could not open document
+
+error: could not open document
+
