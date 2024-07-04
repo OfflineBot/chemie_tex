@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.27)  4 JUL 2024 11:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.27)  4 JUL 2024 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -802,7 +802,7 @@ File: media/naturstoffe/haworth.png Graphic file (type png)
 Package pdftex.def Info: media/naturstoffe/haworth.png  used on input line 33.
 (pdftex.def)             Requested size: 193.08582pt x 111.4594pt.
 ) (./src/naturstoffe/zucker.tex [14 <./media/naturstoffe/haworth.png>]) (./src/naturstoffe/stärke.tex) (./src/naturstoffe/aminosäuren.tex [15]) (./src/naturstoffe/proteine.tex [16]) (./src/naturstoffe/fette.tex) (./src/naturstoffe/begriffe.tex [17] [18]) (./src/naturstoffe/versuche.tex) (./src/naturstoffe/nachweisreaktionen.tex [19]) (./src/naturstoffe/wichtige_stoffe.tex
-<media/naturstoffe/stoffe.png, id=675, 1469.49pt x 819.06pt>
+<media/naturstoffe/stoffe.png, id=674, 1469.49pt x 819.06pt>
 File: media/naturstoffe/stoffe.png Graphic file (type png)
 <use media/naturstoffe/stoffe.png>
 Package pdftex.def Info: media/naturstoffe/stoffe.png  used on input line 3.
@@ -817,28 +817,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--15
 
  []
 
-) (./src/aromaten/aromaten.tex [20 <./media/naturstoffe/stoffe.png (PNG copy)>]
+[20]) (./src/aromaten/aromaten.tex [21 <./media/naturstoffe/stoffe.png (PNG copy)>]
 Chapter 6.
-) (./src/kunststoffe/kunststoffe.tex [21
+) (./src/kunststoffe/kunststoffe.tex [22
 
 ]
 Chapter 7.
-) (./src/elektrochemie/elektrochemie.tex [22
+) (./src/elektrochemie/elektrochemie.tex [23
 
 ]
 Chapter 8.
-) (./src/allgemein/allgemein.tex [23
+) (./src/allgemein/allgemein.tex [24
 
 ]
 Chapter 9.
-(./src/allgemein/homologe_reihen.tex [24
+(./src/allgemein/homologe_reihen.tex [25
 
-]) (./src/allgemein/bindungen.tex [25]) (./src/allgemein/polarität.tex) (./src/allgemein/wecheslwirkungen.tex) (./src/allgemein/aktivierungsenergie.tex [26]) (./src/allgemein/kalorimeter.tex) (./src/allgemein/katalysator.tex) (./src/allgemein/mwg.tex) (./src/allgemein/nucleo_angriff.tex) (./src/allgemein/redox.tex [27]
+]) (./src/allgemein/bindungen.tex [26]) (./src/allgemein/polarität.tex) (./src/allgemein/wecheslwirkungen.tex) (./src/allgemein/aktivierungsenergie.tex [27]) (./src/allgemein/kalorimeter.tex) (./src/allgemein/katalysator.tex) (./src/allgemein/mwg.tex) (./src/allgemein/nucleo_angriff.tex) (./src/allgemein/redox.tex [28]
 Overfull \hbox (11.12065pt too wide) in paragraph at lines 39--40
 \OT1/lmss/m/n/10 Elek-tro-nen aufnehmen und zu el-e-mentarem Kupfer re-duziert wer-den. Hi-er-bei fungiert Zink als Re-duk-tion-s-mit-tel
  []
 
-) (./src/allgemein/isomierie.tex) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex [28])) [29] (./main.aux)
+) (./src/allgemein/isomierie.tex) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex [29])) [30] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -846,18 +846,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 09D9170970ECEC57BB7C382EA3C8BD25;14666.
  ) 
 Here is how much of TeX's memory you used:
- 23950 strings out of 476034
- 449977 string characters out of 5792854
- 1912388 words of memory out of 6000000
- 43679 multiletter control sequences out of 15000+600000
+ 24017 strings out of 476034
+ 451102 string characters out of 5792854
+ 1914388 words of memory out of 6000000
+ 43745 multiletter control sequences out of 15000+600000
  564811 words of font info for 64 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  122i,11n,121p,1193b,882s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (30 pages, 455792 bytes).
+Output written on main.pdf (31 pages, 456571 bytes).
 PDF statistics:
- 843 PDF objects out of 1000 (max. 8388607)
- 772 compressed objects within 8 object streams
- 170 named destinations out of 1000 (max. 500000)
+ 848 PDF objects out of 1000 (max. 8388607)
+ 776 compressed objects within 8 object streams
+ 171 named destinations out of 1000 (max. 500000)
  863 words of extra memory for PDF output out of 10000 (max. 10000000)
 
