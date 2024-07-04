@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.27)  4 JUL 2024 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.27)  4 JUL 2024 13:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -796,13 +796,13 @@ Chapter 5.
 (./src/naturstoffe/kohlenhydrate.tex [13
 
 ]) (./src/naturstoffe/schreibweisen.tex
-<media/naturstoffe/haworth.png, id=622, 224.5188pt x 129.6042pt>
+<media/naturstoffe/haworth.png, id=637, 224.5188pt x 129.6042pt>
 File: media/naturstoffe/haworth.png Graphic file (type png)
 <use media/naturstoffe/haworth.png>
 Package pdftex.def Info: media/naturstoffe/haworth.png  used on input line 33.
 (pdftex.def)             Requested size: 193.08582pt x 111.4594pt.
-) (./src/naturstoffe/zucker.tex [14 <./media/naturstoffe/haworth.png>]) (./src/naturstoffe/stärke.tex) (./src/naturstoffe/aminosäuren.tex [15]) (./src/naturstoffe/proteine.tex [16]) (./src/naturstoffe/fette.tex) (./src/naturstoffe/begriffe.tex [17] [18]) (./src/naturstoffe/versuche.tex) (./src/naturstoffe/nachweisreaktionen.tex [19]) (./src/naturstoffe/wichtige_stoffe.tex
-<media/naturstoffe/stoffe.png, id=672, 1469.49pt x 819.06pt>
+) (./src/naturstoffe/zucker.tex [14 <./media/naturstoffe/haworth.png>]) (./src/naturstoffe/stärke.tex) (./src/naturstoffe/aminosäuren.tex [15]) (./src/naturstoffe/proteine.tex [16]) (./src/naturstoffe/fette.tex [17]) (./src/naturstoffe/begriffe.tex [18]) (./src/naturstoffe/versuche.tex [19]) (./src/naturstoffe/nachweisreaktionen.tex) (./src/naturstoffe/wichtige_stoffe.tex
+<media/naturstoffe/stoffe.png, id=686, 1469.49pt x 819.06pt>
 File: media/naturstoffe/stoffe.png Graphic file (type png)
 <use media/naturstoffe/stoffe.png>
 Package pdftex.def Info: media/naturstoffe/stoffe.png  used on input line 3.
@@ -838,26 +838,26 @@ Overfull \hbox (11.12065pt too wide) in paragraph at lines 39--40
 \OT1/lmss/m/n/10 Elek-tro-nen aufnehmen und zu el-e-mentarem Kupfer re-duziert wer-den. Hi-er-bei fungiert Zink als Re-duk-tion-s-mit-tel
  []
 
-) (./src/allgemein/isomierie.tex) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex [29])) [30] (./main.aux)
+) (./src/allgemein/isomierie.tex) (./src/allgemein/nachweisreaktionen.tex [29]) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex)) [30] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E7B60ACA9BAFDC648635AA8C3D54AC64;14579.
+(rerunfilecheck)             Checksum: D435CBFE9B3665AD759838234920F415;15129.
  ) 
 Here is how much of TeX's memory you used:
- 24015 strings out of 476034
- 451068 string characters out of 5792854
+ 24029 strings out of 476034
+ 451415 string characters out of 5792854
  1914388 words of memory out of 6000000
- 43745 multiletter control sequences out of 15000+600000
+ 43754 multiletter control sequences out of 15000+600000
  564811 words of font info for 64 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  122i,11n,121p,1193b,882s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (31 pages, 456727 bytes).
+Output written on main.pdf (31 pages, 459019 bytes).
 PDF statistics:
- 846 PDF objects out of 1000 (max. 8388607)
- 774 compressed objects within 8 object streams
- 169 named destinations out of 1000 (max. 500000)
- 863 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 866 PDF objects out of 1000 (max. 8388607)
+ 794 compressed objects within 8 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 887 words of extra memory for PDF output out of 10000 (max. 10000000)
 
