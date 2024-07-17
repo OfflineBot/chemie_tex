@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.27)  11 JUL 2024 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 40) (preloaded format=pdflatex 2024.6.27)  17 JUL 2024 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -796,13 +796,13 @@ Chapter 5.
 (./src/naturstoffe/kohlenhydrate.tex [13
 
 ]) (./src/naturstoffe/schreibweisen.tex
-<media/naturstoffe/haworth.png, id=667, 224.5188pt x 129.6042pt>
+<media/naturstoffe/haworth.png, id=697, 224.5188pt x 129.6042pt>
 File: media/naturstoffe/haworth.png Graphic file (type png)
 <use media/naturstoffe/haworth.png>
 Package pdftex.def Info: media/naturstoffe/haworth.png  used on input line 33.
 (pdftex.def)             Requested size: 193.08582pt x 111.4594pt.
 ) (./src/naturstoffe/zucker.tex [14 <./media/naturstoffe/haworth.png>]) (./src/naturstoffe/stärke.tex) (./src/naturstoffe/aminosäuren.tex [15]) (./src/naturstoffe/proteine.tex [16]) (./src/naturstoffe/fette.tex [17]) (./src/naturstoffe/begriffe.tex [18]) (./src/naturstoffe/versuche.tex [19]) (./src/naturstoffe/nachweisreaktionen.tex) (./src/naturstoffe/wichtige_stoffe.tex
-<media/naturstoffe/stoffe.png, id=717, 1469.49pt x 819.06pt>
+<media/naturstoffe/stoffe.png, id=747, 1469.49pt x 819.06pt>
 File: media/naturstoffe/stoffe.png Graphic file (type png)
 <use media/naturstoffe/stoffe.png>
 Package pdftex.def Info: media/naturstoffe/stoffe.png  used on input line 3.
@@ -819,50 +819,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--15
 
 [20]) (./src/aromaten/aromaten.tex [21 <./media/naturstoffe/stoffe.png (PNG copy)>]
 Chapter 6.
-(./src/aromaten/strukturaufklärung.tex
+(./src/aromaten/allgemein.tex) (./src/aromaten/strukturaufklärung.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-) (./src/aromaten/aromatischer_zustand.tex) (./src/aromaten/hückel_regel.tex) (./src/aromaten/begriffe.tex [22
+) (./src/aromaten/aromatischer_zustand.tex) (./src/aromaten/hückel_regel.tex [22
 
-])) (./src/kunststoffe/kunststoffe.tex [23]
+]) (./src/aromaten/begriffe.tex
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+)) (./src/kunststoffe/kunststoffe.tex [23] [24]
 Chapter 7.
-) (./src/elektrochemie/elektrochemie.tex [24
+) (./src/elektrochemie/elektrochemie.tex [25
 
 ]
 Chapter 8.
-) (./src/allgemein/allgemein.tex [25
+) (./src/allgemein/allgemein.tex [26
 
 ]
 Chapter 9.
-(./src/allgemein/homologe_reihen.tex [26
+(./src/allgemein/homologe_reihen.tex [27
 
-]) (./src/allgemein/bindungen.tex [27]) (./src/allgemein/polarität.tex) (./src/allgemein/wecheslwirkungen.tex) (./src/allgemein/aktivierungsenergie.tex [28]) (./src/allgemein/kalorimeter.tex) (./src/allgemein/katalysator.tex) (./src/allgemein/mwg.tex) (./src/allgemein/nucleo_angriff.tex) (./src/allgemein/redox.tex [29]
+]) (./src/allgemein/bindungen.tex [28]) (./src/allgemein/polarität.tex) (./src/allgemein/wecheslwirkungen.tex) (./src/allgemein/aktivierungsenergie.tex [29]) (./src/allgemein/kalorimeter.tex) (./src/allgemein/katalysator.tex) (./src/allgemein/mwg.tex) (./src/allgemein/nucleo_angriff.tex) (./src/allgemein/redox.tex [30]
 Overfull \hbox (11.12065pt too wide) in paragraph at lines 39--40
 \OT1/lmss/m/n/10 Elek-tro-nen aufnehmen und zu el-e-mentarem Kupfer re-duziert wer-den. Hi-er-bei fungiert Zink als Re-duk-tion-s-mit-tel
  []
 
-) (./src/allgemein/isomierie.tex) (./src/allgemein/nachweisreaktionen.tex [30]) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex)) [31] (./main.aux)
+) (./src/allgemein/isomierie.tex) (./src/allgemein/nachweisreaktionen.tex [31]) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex)) [32] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F6073FC26F6EB5BE8D38F8B99B1D441B;15947.
+(rerunfilecheck)             Checksum: 18C33BC69BC7892E1F10BC99C53A39A7;16861.
  ) 
 Here is how much of TeX's memory you used:
- 24062 strings out of 476034
- 452214 string characters out of 5792854
+ 24079 strings out of 476034
+ 452533 string characters out of 5792854
  1914388 words of memory out of 6000000
- 43769 multiletter control sequences out of 15000+600000
+ 43777 multiletter control sequences out of 15000+600000
  564811 words of font info for 64 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  122i,11n,121p,1193b,882s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (32 pages, 464272 bytes).
+Output written on main.pdf (33 pages, 465969 bytes).
 PDF statistics:
- 902 PDF objects out of 1000 (max. 8388607)
- 828 compressed objects within 9 object streams
- 179 named destinations out of 1000 (max. 500000)
- 935 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 938 PDF objects out of 1000 (max. 8388607)
+ 863 compressed objects within 9 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 983 words of extra memory for PDF output out of 10000 (max. 10000000)
 
