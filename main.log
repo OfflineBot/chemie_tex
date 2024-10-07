@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.28)  30 SEP 2024 09:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.9.28)  7 OCT 2024 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,13 +855,13 @@ Chapter 4.
 (./src/naturstoffe/kohlenhydrate.tex [12
 
 ]) (./src/naturstoffe/schreibweisen.tex
-<media/naturstoffe/haworth.png, id=724, 224.5188pt x 129.6042pt>
+<media/naturstoffe/haworth.png, id=739, 224.5188pt x 129.6042pt>
 File: media/naturstoffe/haworth.png Graphic file (type png)
 <use media/naturstoffe/haworth.png>
 Package pdftex.def Info: media/naturstoffe/haworth.png  used on input line 33.
 (pdftex.def)             Requested size: 193.08582pt x 111.4594pt.
 ) (./src/naturstoffe/zucker.tex [13 <./media/naturstoffe/haworth.png>]) (./src/naturstoffe/stärke.tex) (./src/naturstoffe/aminosäuren.tex [14]) (./src/naturstoffe/proteine.tex [15]) (./src/naturstoffe/fette.tex [16]) (./src/naturstoffe/begriffe.tex [17]) (./src/naturstoffe/versuche.tex [18]) (./src/naturstoffe/nachweisreaktionen.tex) (./src/naturstoffe/wichtige_stoffe.tex
-<media/naturstoffe/stoffe.png, id=774, 1469.49pt x 819.06pt>
+<media/naturstoffe/stoffe.png, id=789, 1469.49pt x 819.06pt>
 File: media/naturstoffe/stoffe.png Graphic file (type png)
 <use media/naturstoffe/stoffe.png>
 Package pdftex.def Info: media/naturstoffe/stoffe.png  used on input line 3.
@@ -894,22 +894,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--37
 Chapter 6.
 (./src/kunststoffe/problem.tex [24
 
-]) (./src/kunststoffe/biologisch_abbaubar.tex) (./src/kunststoffe/einteilungen.tex [25])) (./src/elektrochemie/elektrochemie.tex [26]
+]) (./src/kunststoffe/biologisch_abbaubar.tex) (./src/kunststoffe/einteilungen.tex [25]) (./src/kunststoffe/synthese_polyamide.tex) (./src/kunststoffe/synthese_polycarbonat.tex) (./src/kunststoffe/polymerisation.tex)) (./src/elektrochemie/elektrochemie.tex [26] [27]
 Chapter 7.
-) (./src/allgemein/allgemein.tex [27
+) (./src/allgemein/allgemein.tex [28
 
 ]
 Chapter 8.
-(./src/allgemein/homologe_reihen.tex [28
+(./src/allgemein/homologe_reihen.tex [29
 
-]) (./src/allgemein/bindungen.tex [29]) (./src/allgemein/polarität.tex) (./src/allgemein/wecheslwirkungen.tex) (./src/allgemein/aktivierungsenergie.tex [30]) (./src/allgemein/kalorimeter.tex) (./src/allgemein/katalysator.tex) (./src/allgemein/mwg.tex) (./src/allgemein/nucleo_angriff.tex) (./src/allgemein/redox.tex [31]
+]) (./src/allgemein/bindungen.tex [30]) (./src/allgemein/polarität.tex) (./src/allgemein/wecheslwirkungen.tex) (./src/allgemein/aktivierungsenergie.tex [31]) (./src/allgemein/kalorimeter.tex) (./src/allgemein/katalysator.tex) (./src/allgemein/mwg.tex) (./src/allgemein/nucleo_angriff.tex) (./src/allgemein/redox.tex [32]
 Overfull \hbox (11.12065pt too wide) in paragraph at lines 39--40
 \OT1/lmss/m/n/10 Elek-tro-nen aufnehmen und zu el-e-mentarem Kupfer re-duziert wer-den. Hi-er-bei fungiert Zink als Re-duk-tion-s-mit-tel
  []
 
-) (./src/allgemein/isomierie.tex) (./src/allgemein/nachweisreaktionen.tex [32]) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex)) (./src/was_fehlt_mir.tex [33]
+) (./src/allgemein/isomierie.tex) (./src/allgemein/nachweisreaktionen.tex [33]) (./src/allgemein/schreibweisen.tex) (./src/allgemein/wichtige_stoffe.tex)) (./src/was_fehlt_mir.tex [34]
 Chapter 9.
-) [34
+) [35
 
 ] (./main.aux)
  ***********
@@ -921,21 +921,21 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B47CC8864E32B6FDE02BA47ECCE8A208;18220.
+(rerunfilecheck)             Checksum: 1A387174B2A91B2EC74F8BCBE5665BEC;18659.
  ) 
 Here is how much of TeX's memory you used:
- 24741 strings out of 476076
- 458308 string characters out of 5793775
- 1991187 words of memory out of 5000000
- 46075 multiletter control sequences out of 15000+600000
+ 24913 strings out of 476076
+ 461663 string characters out of 5793775
+ 1984187 words of memory out of 5000000
+ 46234 multiletter control sequences out of 15000+600000
  610593 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  122i,11n,124p,1193b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (35 pages, 473510 bytes).
+Output written on main.pdf (36 pages, 477248 bytes).
 PDF statistics:
- 980 PDF objects out of 1000 (max. 8388607)
- 902 compressed objects within 10 object streams
- 195 named destinations out of 1000 (max. 500000)
- 1031 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1000 PDF objects out of 1000 (max. 8388607)
+ 921 compressed objects within 10 object streams
+ 199 named destinations out of 1000 (max. 500000)
+ 1055 words of extra memory for PDF output out of 10000 (max. 10000000)
 
