@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.5)  5 NOV 2024 20:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.5)  5 NOV 2024 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,7 +895,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 Chapter 6.
 (./src/kunststoffe/begriffe.tex) (./src/kunststoffe/kunststoffverwertung.tex [24
 
-]) (./src/kunststoffe/einteilungen.tex [25]) (./src/kunststoffe/synthese_polyamide.tex) (./src/kunststoffe/synthese_polycarbonat.tex [26]) (./src/kunststoffe/polymerisation.tex) (./src/kunststoffe/reaktionstypen.tex [27])) (./src/elektrochemie/elektrochemie.tex [28]
+]) (./src/kunststoffe/einteilungen.tex
+Underfull \hbox (badness 4569) in paragraph at lines 21--22
+[]\OT1/lmss/m/n/10 Erweichen bei mod-er-ater Erw[]armung,
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 21--22
+\OT1/lmss/m/n/10 wer-den bei K[]alte spr[]ode, re-cy-cle-bar,
+ []
+
+[25]) (./src/kunststoffe/synthese_polyamide.tex) (./src/kunststoffe/synthese_polycarbonat.tex [26]) (./src/kunststoffe/polymerisation.tex) (./src/kunststoffe/reaktionstypen.tex [27])) (./src/elektrochemie/elektrochemie.tex [28]
 Chapter 7.
 ) (./src/allgemein/allgemein.tex [29
 
@@ -928,15 +938,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 49D156BFD18662E53B3E61A01B5D147F;19518.
  ) 
 Here is how much of TeX's memory you used:
- 25041 strings out of 476076
- 463554 string characters out of 5793775
+ 25043 strings out of 476076
+ 463614 string characters out of 5793775
  1989187 words of memory out of 5000000
- 46347 multiletter control sequences out of 15000+600000
+ 46349 multiletter control sequences out of 15000+600000
  610720 words of font info for 69 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  122i,11n,124p,1193b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (38 pages, 509177 bytes).
+Output written on main.pdf (38 pages, 509092 bytes).
 PDF statistics:
  1042 PDF objects out of 1200 (max. 8388607)
  959 compressed objects within 10 object streams
