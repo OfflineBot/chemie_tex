@@ -1,0 +1,19 @@
+
+[Arch]
+texlive-basic 2024.2-3
+texlive-bin 2024.2-3
+texlive-binextra 2024.2-3
+texlive-fontsextra 2024.2-3
+texlive-latex 2024.2-3
+texlive-latexextra 2024.2-3
+texlive-latexrecommended 2024.2-3
+texlive-pictures 2024.2-3
+texlive-plaingeneric 2024.2-3
+
+[Apps]
+zathura
+neovim
+
+[Neovim]
+vimtex
+
