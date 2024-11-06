@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.5)  6 NOV 2024 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.5)  6 NOV 2024 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,17 +814,17 @@ l.15
       [1] [2] (./src/thermodynamik/thermodynamik.tex [3]
 Chapter 1.
 (./src/thermodynamik/energetik.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 10.
  (/usr/share/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmss on input line 44.
-LaTeX Font Info:    No file OMLlmss.fd. on input line 44.
+LaTeX Font Info:    Trying to load font information for OML+lmss on input line 48.
+LaTeX Font Info:    No file OMLlmss.fd. on input line 48.
 
 
 LaTeX Font Warning: Font shape `OML/lmss/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 44.
+(Font)              for symbol `textless' on input line 48.
 
 [4
 
@@ -907,18 +907,8 @@ Chapter 6.
 (./src/kunststoffe/begriffe.tex) (./src/kunststoffe/kunststoffverwertung.tex [24
 
 ]
-Underfull \hbox (badness 6944) in paragraph at lines 33--34
-[]\OT1/lmss/m/n/10 Ausgangsstoff: ver-mis-chte, nicht werk-stof-flich
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 36--38
 []\OT1/lmss/bx/n/10 Hydrierung\OT1/lmss/m/n/10 : Solvol-yse; Ket-ten-teilung durch
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-
  []
 
 ) (./src/kunststoffe/einteilungen.tex [25]
@@ -931,7 +921,7 @@ Underfull \hbox (badness 4168) in paragraph at lines 21--22
 \OT1/lmss/m/n/10 wer-den bei K[]alte spr[]ode, re-cy-cle-bar,
  []
 
-) (./src/kunststoffe/synthese_polyamide.tex [26]) (./src/kunststoffe/synthese_polycarbonat.tex) (./src/kunststoffe/polymerisation.tex [27]) (./src/kunststoffe/reaktionstypen.tex)) (./src/elektrochemie/elektrochemie.tex [28]
+) (./src/kunststoffe/synthese_polyamide.tex [26]) (./src/kunststoffe/synthese_polycarbonat.tex) (./src/kunststoffe/polymerisation.tex) (./src/kunststoffe/reaktionstypen.tex [27])) (./src/elektrochemie/elektrochemie.tex [28]
 Chapter 7.
 ) (./src/allgemein/allgemein.tex [29
 
@@ -959,15 +949,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8D91980F08F1E8C3021F82B9F49F69B4;19911.
  ) 
 Here is how much of TeX's memory you used:
- 25250 strings out of 476076
- 466581 string characters out of 5793775
- 1990187 words of memory out of 5000000
+ 25252 strings out of 476076
+ 466602 string characters out of 5793775
+ 1989187 words of memory out of 5000000
  46544 multiletter control sequences out of 15000+600000
  613447 words of font info for 70 fonts, out of 8000000 for 9000
- 17 hyphenation exceptions out of 8191
+ 19 hyphenation exceptions out of 8191
  122i,13n,124p,1193b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on main.pdf (38 pages, 531307 bytes).
+Output written on main.pdf (38 pages, 531741 bytes).
 PDF statistics:
  1052 PDF objects out of 1200 (max. 8388607)
  967 compressed objects within 10 object streams
