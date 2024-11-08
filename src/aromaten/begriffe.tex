@@ -1,5 +1,5 @@
 \section{Begriffe}
-\subsection{Mesomerie Energie}
+\subsection{Mesomerie Energie} \label{sec:mesomerie}
 Verbindungen mit delokalisierten Elektronen sind in der 
 Regel Energie ärmer und somit stabiler. 
 Die Energiedifferenz zwischen den tatsächlich existierenden 
@@ -21,18 +21,22 @@ Früher Benozol, heute Benzen. (beides wird benutzt)
 \end{itemize}
 \end{multicols}
 
-\subsection{Phenol}
-\begin{itemize}
-    \item Reagiert sauer
-    \item Besitzt eine Hydroxy-Gruppe
-\end{itemize}
+\subsection{Heterocyclische Aromaten} 
+\label{sec:heteroaromaten}
+Heterocyclische Aromaten sind Aromaten die in ihrem Ring mindestens ein \textbf{nicht} $C$-Atom haben.
 
-\subsection{Aminobenzol - (Anilin)}
-\begin{itemize}
-    \item Reagiert basisch (schwach)
-    \item Besitzt eine Amino-Gruppe
-\end{itemize}
+\textbf{Beispiel}: (Pyridin. Hat ein $N$ anstelle eines $C$-Atoms) 
 
-\subsection{Heterocyclische Aromaten}
+\chemfig{ C-[:60]C=[:120]N-[:180]C=[:240]C-[:300]C=[:0,0.85] } 
 
-\subsection{Polycyclische Aromaten}
+
+\subsection{Polycyclische Aromaten} 
+\label{sec:polyaromaten}
+Polycyclische Aromaten sind Aromaten die mit weitern benzenartigen Aromaten verbunden sind und somit sich die $\pi$-Bindungen über den Ring verteilen.
+
+\textbf{Beispiel}: (Naphthalin)
+
+\chemfig{ 
+C-[:60]C
+(=C-[:300]C=[:240]C-[:180]C=[:120,0.85])
+-[:120]C=[:180]C-[:240]C=[:300]C-[:0,0.85] } 
